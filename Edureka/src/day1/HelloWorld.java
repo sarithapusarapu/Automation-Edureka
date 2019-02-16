@@ -6,7 +6,7 @@ public class HelloWorld {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("Sree Kamakshi talli Kamakshi");
+System.out.println("Sree Kamakshi talli Kamakshi talli");
 
 
 	}
